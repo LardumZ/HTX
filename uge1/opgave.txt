@@ -35,7 +35,7 @@ Reglen er, at klassen skal være autonom. Dvs. at der ikke må være andre som �
 
 
 opgave 1.
-Ændre klassen Firkant således, at firkantens tilfældig x og y position generes i konstroktøren og ikke skal kaldes fra hovedprogrammet. 
+Ændre klassen Firkant således, at firkantens tilfældig x og y position generes i konstruktøren og ikke skal kaldes fra hovedprogrammet. 
 
 opgave 2.
 Tilføj en attribut farve, til klassen. Farven skal være tilfældig. Brug RGB farver. Hvis du ikke kan huske hvad komandoen hedder, kan slå det op i dokumentationen.
